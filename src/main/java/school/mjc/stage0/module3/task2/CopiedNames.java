@@ -1,3 +1,4 @@
+package school.mjc.stage0.module3.task2;
 public class CopiedNames {
     public static void main(String[] args) {
         int variable = 0;
